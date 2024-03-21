@@ -75,12 +75,13 @@ P{
 
 }
 body{
-    background-image: url("background1-img.jpg");
+    background-image: url(hello.jpg);
+    height: 2800px;
     background-size: cover;
-    background-position: center;
+    background-position: left;
     background-repeat: no-repeat;
+   
 }
-
 #about{
     height:300px;
     width:400px;
